@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="mailto:arthur.providelo@aluno.senai.br"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20ME%20CONTRATE-5027CF?style=for-the-badge&labelColor=5027CF"/></a>
+
 <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B6CFF"/></a>
 <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B6CFF"/></a>
 <a href="LINK-DO-CURRICULO"><img src="https://img.shields.io/badge/CURR%C3%8DCULO-0D1117?style=for-the-badge&logo=readdotcv&logoColor=8B6CFF"/></a>
